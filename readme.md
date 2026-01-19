@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chris Stacke
+# Hi there , I'm Chris
 
 Welcome to my GitHub! I create custom automation solutions to save time, streamline workflows, and boost productivity. My focus is on **Python**, **VBA**, and **AutoIt** automation for a wide range of tasks.
 
